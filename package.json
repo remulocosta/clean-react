@@ -1,13 +1,21 @@
 {
   "name": "react-clean",
   "version": "1.0.0",
-  "description": "",
+  "description": "NodeJs Rest API using TDD, Clean Architecture and Typescript",
+  "author": "Remulo Costa",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "NodeJs",
+    "Rest",
+    "API",
+    "TDD",
+    "Clean",
+    "Architecture",
+    "Typescript"
+  ],
   "license": "ISC",
   "devDependencies": {
     "@types/jest": "^26.0.15",
